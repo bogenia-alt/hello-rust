@@ -1,5 +1,5 @@
 fn main() {
     println!("Hello, world!");
     println!("Hi, asd!");
-    println!("THIRD< !");
+    println!("THIRD< ! asd");
 }
